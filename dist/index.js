@@ -11,4 +11,6 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./GusApiRegon"), exports);
+__exportStar(require("./GusApiRegonItemInterface"), exports);
+__exportStar(require("./GusApiRegonSearchInterface"), exports);
 //# sourceMappingURL=index.js.map
